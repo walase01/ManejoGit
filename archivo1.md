@@ -3,3 +3,8 @@
 
 ## repositorio local
 - git init
+
+## subir cambios
+- git add . (para agregar todos los cambios)
+- git commit -m "comentario"
+- git push <remote name> <branch>
