@@ -5,3 +5,9 @@
 - escribimos el nombre
 - ponemos una drescipcion (opcional)
 - drear repositorio
+
+
+## pasos para bajar cambios
+- git fetch 
+- git pull
+-
